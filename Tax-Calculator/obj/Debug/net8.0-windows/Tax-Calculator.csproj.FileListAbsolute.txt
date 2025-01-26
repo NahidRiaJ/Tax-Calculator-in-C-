@@ -1,0 +1,124 @@
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.exe
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.deps.json
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.runtimeconfig.json
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.pdb
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax_Calculator.texForm.resources
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.GenerateResource.cache
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.AssemblyInfoInputs.cache
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.AssemblyInfo.cs
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.CoreCompileInputs.cache
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.dll
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\refint\Tax-Calculator.dll
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.pdb
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.genruntimeconfig.cache
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\ref\Tax-Calculator.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.AssemblyReference.cache
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calc.0F6E85F7.Up2Date
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\typeOFlanguage\c#\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.ResolveComReference.cache
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\typeOFlanguage\c#\Tax-Calculator\bin\Debug\net8.0-windows\itextsharp.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.exe
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.deps.json
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.runtimeconfig.json
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Tax-Calculator.pdb
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\itextsharp.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.AssemblyReference.cache
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.ResolveComReference.cache
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax_Calculator.texForm.resources
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.GenerateResource.cache
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.AssemblyInfoInputs.cache
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.AssemblyInfo.cs
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.csproj.CoreCompileInputs.cache
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calc.0F6E85F7.Up2Date
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\refint\Tax-Calculator.dll
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.pdb
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\Tax-Calculator.genruntimeconfig.cache
+E:\3-2\Visual Programming Lab\Tax-Calculator\obj\Debug\net8.0-windows\ref\Tax-Calculator.dll
